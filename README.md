@@ -1,1 +1,17 @@
 # Danendra-Dimas-Aryasatya_I0320022_Aditya-Mahendra_Tugas6
+1. I0320022_exercise6.1.py
+2. I0320022_exercise6.2.py
+3. I0320022_exercise6.3.py
+4. I0320022_exercise6.4.py
+5. I0320022_exercise6.5.py
+6. I0320022_exercise6.6.py
+7. I0320022_exercise6.7.py
+8. I0320022_exercise6.8.py
+9. I0320022_exercise6.9.py
+10. I0320022_exercise6.10.py
+11. I0320022_exercise6.11.py
+12. I0320022_exercise6.12.py
+13. I0320022_exercise6.13.py
+14. I0320022_soal1_tugas6.py
+15. I0320022_soal2_tugas6.py
+16. I0320022_soal3_tugas6.py
